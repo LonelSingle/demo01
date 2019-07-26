@@ -24,7 +24,6 @@ public class demo7 {
         nf.setGroupingUsed(false);
         String s=nf.format(i);
         System.out.println(s);
-
         float m=0.9f;
         float n=0.1f;
         Float f2=m-n;
@@ -40,6 +39,5 @@ public class demo7 {
         if(lms.contains("Z2")){
             System.out.println("包含");
         }
-
     }
 }
