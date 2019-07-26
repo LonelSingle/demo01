@@ -44,6 +44,11 @@ public class demo4 {
 
 
 
+
+
+
+
+
         double a=4;
         double b=24;
         double f1 = new BigDecimal((float)a/b).setScale(10, BigDecimal.ROUND_HALF_UP).doubleValue();
